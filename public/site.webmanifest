@@ -1,0 +1,16 @@
+{
+  "name": "RAMS Embedded IT Solutions",
+  "short_name": "RAMS Embedded",
+  "description": "Embedded Systems training institute in Bengaluru",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#101C35",
+  "theme_color": "#101C35",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
